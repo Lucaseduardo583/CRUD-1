@@ -193,17 +193,17 @@
 }
 .slider{
     margin: 0 auto;
-    width: 1000px;
-    height: 800px;
+    width: 600px;
+    height: 395px;
     overflow: hidden;
-    border: 1px solid aliceblue;
+    border: 2px solid aliceblue;
     margin-right: 50px;
     margin-top: 50px;
 }
 
 .slides{
-    width: 700%;
-    height: 800px;
+    width: 600%;
+    height: 600px;
     display: flex;
 }
 
@@ -433,3 +433,4 @@
         text-align: center;
     }
 }
+
